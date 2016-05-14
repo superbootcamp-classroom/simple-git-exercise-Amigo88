@@ -1,7 +1,7 @@
-I like to eat: <XXXX Your favorite food here>
-I like to hear: <XXXX Your favorite music here>
-My hobbies are <XXXX>.
+I like to eat: Pasta
+I like to hear: 80s Music
+My hobbies are: Watching movies
 
-I would like to travel to <XXXX>.
+I would like to travel to Japan.
 
-"<XXXX Your favorite quote goes here>".
+"The best way to find out if you can trust somebody is to trust them."
